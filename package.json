@@ -23,6 +23,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
+    "event-stream": "^3.3.4",
     "express": "^4.16.4",
     "morgan": "^1.9.1",
     "react": "^16.6.3",
